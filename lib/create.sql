@@ -4,4 +4,4 @@ CREATE TABLE projects (
 
 
 
-)
+);
